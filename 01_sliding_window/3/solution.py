@@ -7,7 +7,7 @@ note:
 4. since every time encounter repetition, l moves, so it can be ensured that no more repetiton after that move
 
 time complexity: O(n)
-space complexity: 
+space complexity: O(1)
 
 """
 class Solution:
