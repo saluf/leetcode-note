@@ -11,7 +11,8 @@ Note: Solutions to a problem may be more than one, because the choice of languag
 |Title                                            | Difficulty | Language |
 | ----------------------------------------------- | ------| --- |
 |3. Longest Substring Without Repeating Characters|Medium|Python|
-|424. Longest Repeating Character Replacement|Medium|Python|
+|209. Minimum Size Subarray Sum					  |Medium|Python|
+|424. Longest Repeating Character Replacement	  |Medium|Python|
 
 
 ### 02. Two Pointers
