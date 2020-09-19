@@ -7,6 +7,8 @@ note:
 time complexity: O(n)
 space complexity: O(1)
 
+Runtime: 52 ms, faster than 92.13%
+Memory Usage: 14.1 MB, less than 20.32%
 """
 
 # direct copy all codes (including class, definition of auxilary class, input, output names and types)
