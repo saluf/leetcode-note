@@ -1,6 +1,8 @@
 # LeetCode Note
 The repository record all my solution to data structure and algorithm problems in LeetCode. The problems is orginized by patterns referred to this [post](https://leetcode.com/discuss/general-discussion/457546/lc-problem-patterns-from-educativeio) and with some extra categories to cover more problems.
 
+The general explanation of each pattern will be recorded in [wiki](https://github.com/saluf/leetcode-note/wiki)
+
 Note: Solutions to a problem may be more than one, because the choice of language and strategy.
 
 ## Problem List
