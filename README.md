@@ -18,6 +18,16 @@ Note: Solutions to a problem may be more than one, because the choice of languag
 
 
 ### 02. Two Pointers
+
+[LeetCode List](https://leetcode.com/list/x1c9yoj5)
+
+|Title                                            | Difficulty | Language |
+| ----------------------------------------------- | ------| --- |
+|1. Two Sum				 				 	      |Easy	|Python|
+|15. 3Sum					 					  |Medium|Python|
+|82. Remove Duplicates from Sorted List II		  |Medium|Python|
+|977. Squares of a Sorted Array	 				  |Easy|Python|
+
 ### 03. Fast and Slow Pointers
 ### 04. Merge Intervals
 ### 05. Cyclic Sort
