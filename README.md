@@ -25,8 +25,13 @@ Note: Solutions to a problem may be more than one, because the choice of languag
 | ----------------------------------------------- | ------| --- |
 |1. Two Sum				 				 	      |Easy	|Python|
 |15. 3Sum					 					  |Medium|Python|
+|16. 3Sum Closest			 					  |Medium|Python|
+|344. Reverse String			 				  |Medium|Python|
 |82. Remove Duplicates from Sorted List II		  |Medium|Python|
 |977. Squares of a Sorted Array	 				  |Easy|Python|
+|26. Remove Duplicates from Sorted Array	 	  |Easy|Python|
+
+
 
 ### 03. Fast and Slow Pointers
 ### 04. Merge Intervals
