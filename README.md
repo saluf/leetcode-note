@@ -38,6 +38,15 @@ Note: Solutions to a problem may be more than one, because the choice of languag
 ### 05. Cyclic Sort
 ### 06. Reversal of Linked List
 ### 07. BFS
+
+[LeetCode List](https://leetcode.com/list/x11yk6br)
+
+|Title                                            | Difficulty | Language |
+| ----------------------------------------------- | ------| --- |
+|102. Binary Tree Level Order Traversal			  |Medium|Python|
+|226. Invert Binary Tree			 			  |Easy|Python|
+|542. 01 Matrix				 					  |Medium|Python|
+
 ### 08. DFS
 ### 09. Two Heaps
 ### 10. Subsets
